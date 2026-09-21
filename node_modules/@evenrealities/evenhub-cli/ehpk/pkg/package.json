@@ -1,0 +1,11 @@
+{
+  "name": "ehpk-pack",
+  "version": "0.1.0",
+  "files": [
+    "ehpk_pack_bg.wasm",
+    "ehpk_pack.js",
+    "ehpk_pack.d.ts"
+  ],
+  "main": "ehpk_pack.js",
+  "types": "ehpk_pack.d.ts"
+}

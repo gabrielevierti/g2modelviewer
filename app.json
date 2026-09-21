@@ -1,0 +1,8 @@
+{
+  "package_id": "com.gabrielevierti.g2modelviewer",
+  "name": "G2 Model Viewer",
+  "description": "Interactive 3D model viewer for Even Realities G2",
+  "version": "0.1.0",
+  "author": "Gabriele V.",
+  "entry": "index.html"
+}
