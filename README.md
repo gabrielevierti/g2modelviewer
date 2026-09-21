@@ -1,5 +1,7 @@
 # G2ModelViewer
 
+https://github.com/user-attachments/assets/2ef215c0-2b11-4e94-8846-a2c29760398c
+
 A software 3D renderer for [Even Realities G2](https://www.evenrealities.com/) that turns OBJ and GLB models into a 576×288, 16-level grayscale framebuffer using [Glyph](https://github.com/gabrielevierti/glyph).
 
 G2ModelViewer is built around the constraints of the G2 rather than around a conventional desktop 3D pipeline: geometry is transformed and rasterized in software, visibility is resolved with a Z-buffer, the result is reduced to Gray4, and Glyph handles the final framebuffer/tile transport to the glasses.
